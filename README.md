@@ -1,7 +1,7 @@
 
 # 💳 payment-service
 
-Microserviço de pagamentos desenvolvido em Java com Spring Boot, parte da arquitetura do sistema **academyWorkout**.
+Microserviço de pagamentos desenvolvido em Java com Spring Boot, parte da arquitetura do sistema **academyWorkout** (https://github.com/Lops5gx/academyWorkout)
 
 ## 📦 Visão Geral
 
